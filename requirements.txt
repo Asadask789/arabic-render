@@ -1,2 +1,12 @@
 fastapi ~= 0.103
 uvicorn[standard]
+pydantic
+beautifulsoup4
+transformers
+torch
+nltk
+requests
+python-multipart
+bs4
+fake_useragent
+scikit-learn
